@@ -1,0 +1,233 @@
+[
+    {
+        "Kabupaten_Kota": "KOTA MEDAN",
+        "Pdp": "138",
+        "Positif": "966",
+        "Meninggal": "58",
+        "Sembuh": "253"
+    },
+    {
+        "Kabupaten_Kota": "KOTA PEMATANG SIANTAR",
+        "Pdp": "15",
+        "Positif": "60",
+        "Meninggal": "3",
+        "Sembuh": "16"
+    },
+    {
+        "Kabupaten_Kota": "KOTA TANJUNG BALAI",
+        "Pdp": "0",
+        "Positif": "4",
+        "Meninggal": "2",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KOTA BINJAI",
+        "Pdp": "2",
+        "Positif": "23",
+        "Meninggal": "2",
+        "Sembuh": "12"
+    },
+    {
+        "Kabupaten_Kota": "KOTA TEBING TINGGI",
+        "Pdp": "1",
+        "Positif": "6",
+        "Meninggal": "0",
+        "Sembuh": "1"
+    },
+    {
+        "Kabupaten_Kota": "KOTA SIBOLGA",
+        "Pdp": "1",
+        "Positif": "1",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KOTA PADANGSIDIMPUAN",
+        "Pdp": "0",
+        "Positif": "4",
+        "Meninggal": "1",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN DELI SERDANG",
+        "Pdp": "30",
+        "Positif": "191",
+        "Meninggal": "14",
+        "Sembuh": "65"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN LANGKAT",
+        "Pdp": "0",
+        "Positif": "10",
+        "Meninggal": "2",
+        "Sembuh": "2"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN KARO",
+        "Pdp": "3",
+        "Positif": "20",
+        "Meninggal": "0",
+        "Sembuh": "5"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN SIMALUNGUN",
+        "Pdp": "26",
+        "Positif": "81",
+        "Meninggal": "2",
+        "Sembuh": "18"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN ASAHAN",
+        "Pdp": "4",
+        "Positif": "14",
+        "Meninggal": "2",
+        "Sembuh": "3"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN LABUHAN BATU",
+        "Pdp": "0",
+        "Positif": "2",
+        "Meninggal": "0",
+        "Sembuh": "1"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN TAPANULI UTARA",
+        "Pdp": "1",
+        "Positif": "7",
+        "Meninggal": "0",
+        "Sembuh": "4"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN TAPANULI TENGAH",
+        "Pdp": "1",
+        "Positif": "2",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN TAPANULI SELATAN",
+        "Pdp": "0",
+        "Positif": "1",
+        "Meninggal": "0",
+        "Sembuh": "1"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN NIAS",
+        "Pdp": "0",
+        "Positif": "0",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN DAIRI",
+        "Pdp": "1",
+        "Positif": "2",
+        "Meninggal": "0",
+        "Sembuh": "1"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN TOBA",
+        "Pdp": "1",
+        "Positif": "2",
+        "Meninggal": "0",
+        "Sembuh": "2"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN MANDAILING NATAL",
+        "Pdp": "0",
+        "Positif": "2",
+        "Meninggal": "0",
+        "Sembuh": "2"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN NIAS SELATAN",
+        "Pdp": "0",
+        "Positif": "0",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN PAKPAK BHARAT",
+        "Pdp": "0",
+        "Positif": "0",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN HUMBANG HASUNDUTAN",
+        "Pdp": "0",
+        "Positif": "1",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN SAMOSIR",
+        "Pdp": "0",
+        "Positif": "1",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN SERDANG BEDAGAI",
+        "Pdp": "2",
+        "Positif": "17",
+        "Meninggal": "1",
+        "Sembuh": "12"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN BATU BARA",
+        "Pdp": "0",
+        "Positif": "5",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN PADANG LAWAS",
+        "Pdp": "0",
+        "Positif": "2",
+        "Meninggal": "1",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN PADANG LAWAS UTARA",
+        "Pdp": "2",
+        "Positif": "1",
+        "Meninggal": "0",
+        "Sembuh": "1"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN LABUHAN BATU UTARA",
+        "Pdp": "0",
+        "Positif": "2",
+        "Meninggal": "2",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN LABUHAN BATU SELATAN",
+        "Pdp": "0",
+        "Positif": "1",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KOTA GUNUNGSITOLI",
+        "Pdp": "0",
+        "Positif": "1",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN NIAS UTARA",
+        "Pdp": "0",
+        "Positif": "0",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    },
+    {
+        "Kabupaten_Kota": "KABUPATEN NIAS BARAT",
+        "Pdp": "0",
+        "Positif": "0",
+        "Meninggal": "0",
+        "Sembuh": "0"
+    }
+]
